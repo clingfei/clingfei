@@ -18,7 +18,6 @@ Welcome to my Github!
 * :construction_worker: Junior of Shanghai Jiao Tong University
 * :school: [School of Cyber Science and Engineering](https://infosec.sjtu.edu.cn/)
 - 📧 How to reach me: clf700383@gmail.com
-- Interseted? visit my [HOMEPAGE-CN](https://fail.lingfei.xyz)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=clingfei&hide=prs&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&repo=github-readme-stats" />
