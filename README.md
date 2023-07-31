@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Welcome to my Github!
-* :construction_worker: Junior of Shanghai Jiao Tong University
-* :school: [School of Cyber Science and Engineering](https://infosec.sjtu.edu.cn/)
 - 📧 How to reach me: clf700383@gmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
