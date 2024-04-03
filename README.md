@@ -23,3 +23,6 @@ Welcome to my Github!
 <a href="https://github.com/anuraghazra/convoychat">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clingfei&hide=Tcl,Perl,Makefile,CSS,HTML,Yacc,Lex,Verilog&langs_count=6&layout=compact&hide_border=true&repo=convoychat" />
 </a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
