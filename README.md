@@ -27,11 +27,7 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```txt
-C++      1 hr 3 mins     ███████████▒░░░░░░░░░░░░░   44.92 %
-C        35 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.28 %
-Python   32 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.06 %
-CMake    5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Other    4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
