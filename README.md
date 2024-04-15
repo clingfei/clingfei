@@ -27,7 +27,8 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C         10 mins         ██████████████░░░░░░░░░░░   56.63 %
+Kconfig   7 mins          ███████████░░░░░░░░░░░░░░   43.37 %
 ```
 
 <!--END_SECTION:waka-->
