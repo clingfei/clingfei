@@ -27,9 +27,7 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```txt
-Kconfig   2 mins          █████████████████▒░░░░░░░   69.42 %
-C++       0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   19.31 %
-C         0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
