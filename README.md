@@ -27,7 +27,8 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+LLVM   11 mins         ████████████████████████▒   97.96 %
+C      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 <!--END_SECTION:waka-->
