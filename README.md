@@ -27,11 +27,11 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```txt
-C                  13 hrs 52 mins  ██████████████████████▒░░   89.92 %
-Java Properties    28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-Objective-C        28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Makefile           18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-Other              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+C                  7 hrs 56 mins   █████████████████████░░░░   84.24 %
+Java Properties    28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Objective-C        24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Makefile           18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Other              14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->
