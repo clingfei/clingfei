@@ -27,9 +27,7 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```txt
-C             1 hr 25 mins    ████████████████████████░   95.69 %
-Objective-C   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-Python        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+C   18 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
