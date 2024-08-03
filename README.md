@@ -27,7 +27,7 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```txt
-C   18 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
