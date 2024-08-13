@@ -27,7 +27,10 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C                  36 mins         █████████████████▒░░░░░░░   69.69 %
+reStructuredText   13 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.01 %
+Objective-C        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+Makefile           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
