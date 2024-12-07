@@ -27,11 +27,11 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```txt
-C                  15 hrs 11 mins  ██████████████████████▒░░   89.18 %
-reStructuredText   29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-Python             20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-Other              17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Assembly           13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+C                  11 hrs 1 min    █████████████████████▒░░░   85.92 %
+reStructuredText   29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Python             20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Other              15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Assembly           13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
