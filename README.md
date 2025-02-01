@@ -27,7 +27,8 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Assembly   6 mins          ███████████████████▓░░░░░   78.12 %
+C          1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
 ```
 
 <!--END_SECTION:waka-->
