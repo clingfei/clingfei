@@ -27,8 +27,9 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```txt
-Assembly   6 mins          ███████████████████▓░░░░░   78.12 %
-C          1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
+Assembly   6 mins          ████████████████▓░░░░░░░░   66.27 %
+C          1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.56 %
+Other      1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
 ```
 
 <!--END_SECTION:waka-->
