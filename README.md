@@ -27,9 +27,7 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```txt
-Other   22 mins         ████████████████████░░░░░   79.41 %
-C       3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
-C++     2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
