@@ -27,11 +27,11 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```txt
-C                  10 hrs 13 mins  ███████████████████████░░   91.64 %
-Devicetree         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-Other              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Objective-C        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-reStructuredText   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+C                  12 hrs 3 mins   ███████████████████████▒░   93.48 %
+Devicetree         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+Objective-C        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Other              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+reStructuredText   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
