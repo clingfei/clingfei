@@ -27,11 +27,11 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```txt
-C                  3 hrs 23 mins   ███████████████████████░░   91.89 %
-Other              6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-Makefile           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-reStructuredText   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Kconfig            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+C                  8 hrs 23 mins   ███████████████████████▒░   93.61 %
+Assembly           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Other              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Makefile           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+reStructuredText   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
