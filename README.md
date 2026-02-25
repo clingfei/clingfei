@@ -27,11 +27,7 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```txt
-C++        4 hrs 17 mins         ███████████████▓░░░░░░░░░   62.93 %
-Other      1 hr 7 mins           ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
-LLVM       1 hr 6 mins           ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
-C          12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-Assembly   5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
