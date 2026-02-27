@@ -27,7 +27,8 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON   8 mins                █████████████████████████   99.35 %
+Bash   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
