@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 Welcome to my Github!
 - 📧 How to reach me: clf700383@gmail.com
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-stats-extended.vercel.app/api?username=clingfei&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&repo=github-readme-stats" />
-</a>
+</a> -->
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=clingfei&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
+
 <!-- <a href="https://github.com/anuraghazra/convoychat">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clingfei&hide=Tcl,Perl,Makefile,CSS,HTML,Yacc,Lex,Verilog&langs_count=6&layout=compact&hide_border=true&repo=convoychat" />
 </a> -->
