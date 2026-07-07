@@ -29,11 +29,11 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```txt
-C                  26 hrs 12 mins        ███████████████░░░░░░░░░░   59.91 %
-Markdown           4 hrs 2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-JSON               2 hrs 11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-Bash               1 hr 43 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-ca65 assembler     1 hr 35 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+C                  26 hrs 54 mins        ███████████████░░░░░░░░░░   59.74 %
+Markdown           3 hrs 26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+JSON               2 hrs 21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Bash               1 hr 43 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+ca65 assembler     1 hr 35 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
 ```
 
 <!--END_SECTION:waka-->
