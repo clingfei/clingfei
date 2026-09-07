@@ -29,11 +29,11 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```txt
-C             23 hrs 31 mins        ██████████▓░░░░░░░░░░░░░░   42.53 %
-Rust          9 hrs 20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
-Other         6 hrs 25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-Assembly      3 hrs 38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
-Markdown      3 hrs 22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+C             25 hrs 12 mins        ██████████▒░░░░░░░░░░░░░░   41.16 %
+Rust          9 hrs 20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
+Other         6 hrs 21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
+Markdown      6 hrs 4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+Assembly      3 hrs 39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
 ```
 
 <!--END_SECTION:waka-->
