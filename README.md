@@ -29,11 +29,11 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```txt
-TeX                9 hrs                 ██████░░░░░░░░░░░░░░░░░░░   23.85 %
-Python             7 hrs 50 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.76 %
-C                  6 hrs 13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
-Markdown           2 hrs 57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
-reStructuredText   2 hrs 44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+Python             7 hrs 1 min           ██████░░░░░░░░░░░░░░░░░░░   24.33 %
+C                  6 hrs                 █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
+TeX                3 hrs 50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
+Markdown           2 hrs 50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
+reStructuredText   2 hrs 44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
 ```
 
 <!--END_SECTION:waka-->
